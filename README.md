@@ -75,6 +75,14 @@ Enter x2、またはShift + Enterで通常の段落に戻ります。
 
 ![gif_rating](https://user-images.githubusercontent.com/1843532/27434638-62ba52ca-5794-11e7-9c34-efa271b11748.gif)
 
+現在の対応サイトは、以下の通りです。
+
+- Topcoder
+- Codeforces
+- AtCoder
+- CodeChef
+- yukicoder
+
 `/setting`ページでSNS情報を記載すると、ここに表示されます。
 
 
