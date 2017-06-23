@@ -15,6 +15,7 @@ comprofile は、競技プログラマー用のブログシステムです。
 ## MathJax
 
 `$`を押すと開きます。
+TeXを記述し終わったら、Tabキーを押してウィンドウを閉じます。
 
 ![gif_mathjax](https://user-images.githubusercontent.com/1843532/27433392-7fef8004-578f-11e7-8f8c-47f395f97142.gif)
 
@@ -53,6 +54,7 @@ comprofile は、競技プログラマー用のブログシステムです。
 行頭で`-`に続けてスペースを押すとリスト表記になります。
 Tabを押すとインデントされ、Shift+Tabでアンインデントされます。
 また、行頭で数字 + `.`を押すと番号付きリストになります。
+Enter x2、またはShift + Enterで通常の段落に戻ります。
 
 ![gif_list](https://user-images.githubusercontent.com/1843532/27433394-7ff08454-578f-11e7-95e6-4918813cda64.gif)
 
