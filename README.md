@@ -1,5 +1,7 @@
 (Written in Japanese)
 
+[comprofile](https://comprofile.fun)
+
 # 概要
 comprofile は、競技プログラマー用のブログシステムです。
 書きやすく、探しやすいサービスを目標としています。
@@ -90,7 +92,7 @@ Enter x2、またはShift + Enterで通常の段落に戻ります。
 
 - 解法をどんどん書く
 - 不備のあるドキュメントにプルリクを出す or 翻訳する
-- 要望をissueに上げる
+- バグ・要望をissueに上げる
 
 # History
 
