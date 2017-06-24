@@ -6,6 +6,13 @@
 comprofile は、競技プログラマー用のブログシステムです。
 書きやすく、探しやすいサービスを目標としています。
 
+# 探す機能
+
+ツリーを展開してゆくことで、問題ごとに解法を探すことができます。
+
+<img width="492" alt="gif_finder" src="https://user-images.githubusercontent.com/1843532/27506651-b6936058-58f7-11e7-9c61-54997f8393ed.png">
+
+
 # エディターの機能
 
 ![gif_editor](https://user-images.githubusercontent.com/1843532/27494519-37d6555e-5889-11e7-8c3b-7808e72f2ae6.gif)
