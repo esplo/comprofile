@@ -35,6 +35,8 @@ TeXを記述し終わったら、Tabキーを押してウィンドウを閉じ�
 
 ![gif_category](https://user-images.githubusercontent.com/1843532/27433391-7fed4442-578f-11e7-90d4-4ab90da566a9.gif)
 
+現時点で存在しないカテゴリを追加する際は、記入をしてEnterを押すと保存されます。
+
 ## コード
 
 バッククオート3つ（```）に続けて言語名を書き、Enterを押すことでコードをSyntaxHighlight付きで表示します。
